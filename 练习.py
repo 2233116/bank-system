@@ -1,1 +1,3 @@
-student = {"name","age","courses":{"高数":140,"线代":120,"大学物理":130}}
+import tool
+s = tool.add(2,6)
+print(s)
